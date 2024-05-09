@@ -18,6 +18,10 @@ The dataset used in this project: [Demand and Supply DataSet](https://www.kaggle
     | - Rides Completed
 ```
 
+## Screenshots
+![ss_1](https://github.com/notayush000/Demand-Supply-Analysis/assets/58353326/a422f69c-8190-4071-819a-c0eb1ec8dda7)
+![ss_2](https://github.com/notayush000/Demand-Supply-Analysis/assets/58353326/19899171-e36b-43ad-8461-6578ab443e40)
+
 
 ## Authors
 
